@@ -1,3 +1,3 @@
 # Stock-Market-Prediction-Using-LSTM
 
-## Datasets:- APPLE
+## Datasets:- Apple Stock 
